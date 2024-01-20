@@ -1,26 +1,27 @@
-# My plugin
+<p align="center">
+  <img src="https://github.com/kodaline/shopping-cart/blob/main/img/shopping_cart.png?raw=true" />
+</p>
 
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=383938&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=Awesome+plugin&color=000000&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://)
+# Shopping CArT
 
-Write here all the useful information about your plugin.
+**Shopping CArT** is a simple plugin for the Cheshire Cat AI framework that can be used to easily manage your shopping market list.
 
-This repository is the template to automate the release of official Cheshire Cat AI plugins. 
+# Requirement
 
-## Usage
+## Cheshire Cat AI
 
-1. Create a new repository clicking on the `Use this template` button.
-2. Clone your new repo directly in the Cat's `plugins` folder.
-3. Run the `setup.py` script:
-```bash
-python setup.py
-```
-The script will prompt you to write the name of your plugin and make an initial setup setting the name in the files.
+To start using the plugin you need to have the Cheshire Cat AI up and running. To do so visit the repository [here](https://github.com/cheshire-cat-ai/core) and follow the easy steps to install it.
 
-4. Start developing!
+Once you have setup the `cat`, you need to:
 
-> **Important**
-> A new release of your plugin is triggered every time you set a new `version` in the `plugin.json` file.
-> Please, remember to set it correctly every time you want to release an update.
+1. Install the plugin (`Admin page` -> `Plugins tab`)
 
+2. Activate the plugin by the toggle button
+
+3. and start managing your shopping market list!
+
+If you want to dive into the plugin background, consider taking a look at [dive into](/doc/dive-into.md) readme.
+
+## Credits
+
+This plugin is deeply inspired by the [Meow Todo List](https://github.com/kodaline/cat-meow-todo-list) by [Piero Savastano](https://github.com/pieroit) ♡⸜(ˆᗜˆ˵ )⸝♡.

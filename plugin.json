@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Shopping CArT",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Manage your shopping market cart with the Cat easily: add, remove, list items.",
+    "author_name": "Aline",
+    "author_url": "https://github.com/kodaline",
+    "plugin_url": "https://github.com/kodaline/shopping-cart",
+    "tags": "shopping market, assistant, cart",
+    "thumb": "https://github.com/kodaline/shopping-cart/blob/main/img/shopping_cart.png?raw=true"
 }

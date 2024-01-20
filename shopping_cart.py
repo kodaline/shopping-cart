@@ -24,7 +24,6 @@ def add_to_shopping_cart(products, cat):
     save_items(shopping_cart)
 
     return f"Shopping list updated with: *{', '.join(products)}*"
-# "https://github.com/kodaline/shopping-cart/blob/main/img/shopping_cart.png?raw=true"
 
 @tool(return_direct=True)
 def remove_from_shopping_list(products, cat):

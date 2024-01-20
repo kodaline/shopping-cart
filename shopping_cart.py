@@ -51,5 +51,5 @@ def remove_from_shopping_list(products, cat):
 def search_in_shopping_cart(query, cat):
     """Get things in the shopping list. "query" is a string used to filter the list."""
 
-    todos = get_items()
-    return stringify_items(todos)
+    shopping_cart = get_items()
+    return stringify_items(shopping_cart)
